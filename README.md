@@ -6,6 +6,7 @@ To run LLamaSharp examples on CPU, remove LLamaSharp.Backend.Cuda12 NuGetPackage
 
 ## DirectML/ONNX examples
 
-DirectML/ONNX examples are based on examples from Microsoft sample code from this repository: https://github.com/microsoft/RAG-PDF-Analyzer-WPF-Sample/
+DirectML/ONNX examples are based on Microsoft sample code from this repository: https://github.com/microsoft/RAG-PDF-Analyzer-WPF-Sample/
+
 They require .net 9 preview to run, installation details can be found here: https://github.com/microsoft/RAG-PDF-Analyzer-WPF-Sample/
 
