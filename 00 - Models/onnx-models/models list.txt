@@ -1,0 +1,2 @@
+Download models into all-MiniLM-L6-v2 and phi3-directml-int4-awq-block-128 subfolders as described here:
+https://github.com/microsoft/RAG-PDF-Analyzer-WPF-Sample/

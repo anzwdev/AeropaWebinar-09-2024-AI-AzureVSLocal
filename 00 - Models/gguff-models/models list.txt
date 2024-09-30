@@ -1,0 +1,14 @@
+Create these folders with these models here:
+
+.\bartowski-llama-3-groq-8B-tool-use
+  download Llama-3-Groq-8B-Tool-Use-Q6_K.gguf from https://huggingface.co/bartowski/Llama-3-Groq-8B-Tool-Use-GGUF/tree/main
+
+.\llava-llama-3-8b-v1_1
+  download llava-llama-3-8b-v1_1-int4.gguf and llava-llama-3-8b-v1_1-mmproj-f16.gguf from https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf/tree/main
+
+.\microsoft-phi-3-4k
+  download Phi-3-mini-4k-instruct-q4.gguf and Phi-3-mini-4k-instruct-fp16.gguf from https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/tree/main
+
+.\
+download Meta-Llama-3.1-8B-Instruct-Q6_K_L.gguf from https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/tree/main
+

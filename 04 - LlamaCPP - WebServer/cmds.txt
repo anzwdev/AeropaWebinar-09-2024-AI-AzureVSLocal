@@ -1,0 +1,7 @@
+download llama cpp releases executables for your platform from llama cpp github repository and extract them here
+https://github.com/ggerganov/llama.cpp/releases
+
+command to run web server and listen on port 8080 of localhost:
+
+llama-server.exe -m 'D:\Conferences\2024-09 - Local AI\00 - Models\gguff-models\bartowski-llama-3-groq-8B-tool-use\Llama-3-Groq-8B-Tool-Use-Q6_K.gguf' --port 8080 --host 127.0.0.1
+

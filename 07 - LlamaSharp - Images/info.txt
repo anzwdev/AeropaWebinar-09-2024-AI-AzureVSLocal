@@ -1,0 +1,2 @@
+Code based on LlamaSharp example from 
+https://scisharp.github.io/LLamaSharp/0.16.0/Examples/LLavaInteractiveModeExecute/

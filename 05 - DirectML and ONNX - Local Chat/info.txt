@@ -1,0 +1,2 @@
+Code based on Microsoft AI sample code from
+https://github.com/microsoft/RAG-PDF-Analyzer-WPF-Sample/

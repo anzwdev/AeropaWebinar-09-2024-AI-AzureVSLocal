@@ -1,0 +1,2 @@
+Code based on LlamaSharp example from 
+https://github.com/SciSharp/LLamaSharp?tab=readme-ov-file
